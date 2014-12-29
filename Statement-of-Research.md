@@ -6,7 +6,7 @@ output: pdf_document
 ---
 
 # STATEMENT OF RESEARCH
-# Tenure-track Faculty Position: Energy Systems Engineering, Thayer School of Engineering, Dartmouth College.
+Tenure-track Faculty Position: Energy Systems Engineering, Thayer School of Engineering, Dartmouth College.
 
 ## Research Philosophy
 The single best descriptor for my area of research is Energy Systems Engineering. In the spirit of Dartmouth's Thayer School of Engineering at large, and this faculty position in particular, my research is truly interdisciplinary -- part mechanical engineering, part environmental engineering, part power systems engineering, part industrial ecology, part data analysis and part statistical modeling. My research calls upon a solid foundation in Mechanical Engineering (University of Maryland, B.S. 2009), coupled with interdisciplinary training in Civil & Environmental Engineering (University of Colorado Denver, M.S. 2011; Ph.D. 2014), and postdoctoral experience in Energy Systems Analysis (Sustainable Engineering Lab of Columbia University, 2014-Present). Currently, I hold a joint appointment at Columbia University as a Postdoctoral Research Scientist in Mechanical Engineering and part-time Lecturer in Statistics. Each of these distinct roles has offered incredible opportunities for growth, exploration and professional development.
