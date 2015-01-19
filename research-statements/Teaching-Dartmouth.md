@@ -1,7 +1,7 @@
 # Statement of Teaching
-**Elliot Cohen** <elliot.cohen@columbia.edu>  
-Tenure-Track Position in Energy Systems Engineering    
-Thayer School of Engineering, Dartmouth College  
+**Elliot Cohen <elliot.cohen@columbia.edu>**  
+**Tenure-Track Position in Energy Systems Engineering**    
+**Thayer School of Engineering, Dartmouth College**  
 **************************************************
 
 ## Teaching Interests
